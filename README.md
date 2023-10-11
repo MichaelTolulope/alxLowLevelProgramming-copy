@@ -1,1 +1,1 @@
- Alx readme
+ Readme for c project
